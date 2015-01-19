@@ -1,5 +1,7 @@
-<<<<<<< HEAD
-# YoutubeClone
-=======
 # OdinProject
->>>>>>> 31d1bf34e721a91bf5cfa894954b178f82cbe4d4
+
+The culimation of the projects I have built using TheOdinProject.com guide.
+
+Includes clone pages, drawing apps, and mathmatical operators to name a few. 
+
+Using HTML/CSS/JavaScript/jQuery for the projects
