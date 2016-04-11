@@ -1,6 +1,6 @@
 The Odin Project
 ======
-*theodinproject.com* teaches you web development by cloning popular websites. This project taught me how to be comfortable with the chrome dev tools and how to efficiently use HTML, CSS, and Bootstrap.
+**theodinproject.com** teaches you web development by cloning popular websites. This project taught me how to be comfortable with the chrome dev tools and how to efficiently use HTML, CSS, and Bootstrap.
 
 1. [Youtube Video Page](http://leonardlabita.com/odin/youtube.html)
 2. [Mint Signup Form](http://leonarlabita.com/odin/mint.html)
